@@ -1,0 +1,14 @@
+{
+  "shared": {
+    "backgroundColor": "#1E3A52",
+    "colorPaletteOverrides": [
+      "#1E90FF", "#87CEEB", "#B0C4DE", "#4682B4", "#5F9EA0",
+      "#B0E0E6", "#ADD8E6", "#87CEFA", "#6495ED", "#4169E1",
+      "#0000CD", "#000080", "#008B8B", "#20B2AA", "#00CED1",
+      "#48D1CC"
+    ],
+    "cursorColor": "#87CEEB",
+    "foregroundColor": "#F0F8FF"
+  },
+  "version": 1
+}
